@@ -1,4 +1,4 @@
-    ## 7,000 Dorks for hacking into various sites ##
+    ## 7K Dorks for hacking into various sites ##
      
     about.php?cartID=
     accinfo.php?cartId=
